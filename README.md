@@ -22,3 +22,9 @@ This is a task management dashboard where users can add, edit, delete, and mark 
    ```bash
    git clone https://github.com/namita328/task-management.git
    ```
+
+2. Install node packages:
+   npm install
+
+3. Start the server:
+   npm Start
